@@ -1,6 +1,6 @@
 ### README.md
 
-# Behave Project Example
+# Behave Project
 
 This is a test project demonstrating api testing use Behave for behavior-driven development (BDD) in Python.
 
