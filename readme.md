@@ -1,5 +1,3 @@
-Below is an example of a README file for a Behave project. This README file provides an overview of the project, how to install dependencies, run tests.
-
 ### README.md
 
 # Behave Project Example
